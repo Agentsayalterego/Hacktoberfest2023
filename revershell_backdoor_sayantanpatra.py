@@ -37,7 +37,6 @@ while 1:
         continue
     
 s.close()
-
 '''
 Code developed by SAYANTAN PATRA
 For any issues contact - sayantanpatra68@gmail.com
