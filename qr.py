@@ -1,4 +1,4 @@
 import qrcode
 
-# img = qrcode.make("")
-# img.save("h.png")
+img = qrcode.make("https://github.com/sayantancodex")
+img.save("h.png")
