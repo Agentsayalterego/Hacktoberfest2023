@@ -36,7 +36,7 @@ while 1:
     except Exception as e:
         continue
     
-# s.close()
+s.close()
 
 '''
 Code developed by SAYANTAN PATRA
